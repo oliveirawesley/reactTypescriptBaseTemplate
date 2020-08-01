@@ -1,0 +1,27 @@
+@import './fonts';
+@import './colors';
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body::-webkit-scrollbar-track {
+	border-radius: 1px;
+	background-color: whitesmoke;
+}
+
+body::-webkit-scrollbar {
+	width: 7px;
+	background-color: map-get($colors, dark);
+}
+
+body::-webkit-scrollbar-thumb {
+	border-radius: 1px;
+	background-color: map-get($colors, dark);
+}
