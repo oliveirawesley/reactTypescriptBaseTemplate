@@ -2,7 +2,7 @@
 
 > Simple get started react template
 
-![](Application.png)
+![](application-preview.JPG)
 
 ## Installation
 
@@ -26,13 +26,13 @@ This project are developed using ReactJS at version 16.13.1
 
 ## Libraries
 
--   Eslint - 6.8.0
--   Font Awesome - 4.7.0
--   Node SASS - 4.14.1
--   React Router Dom - 5.2.0
--   React Toastify - 6.0.8
--   Unform - 2.1.3
--   YUP - 0.29.2
+- Eslint - 6.8.0
+- Font Awesome - 4.7.0
+- Node SASS - 4.14.1
+- React Router Dom - 5.2.0
+- React Toastify - 6.0.8
+- Unform - 2.1.3
+- YUP - 0.29.2
 
 ## Author
 
